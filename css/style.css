@@ -85,6 +85,10 @@ Author: Perfect Point Marketing
     font-family: StroiTehGrupp13; /* Ð“Ð°Ñ€Ð½Ð¸Ñ‚ÑƒÑ€Ð° ÑˆÑ€Ð¸Ñ„Ñ‚Ð° */
     src: url('fonts/font13.ttf'); /* ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ ÑÐ¾ ÑˆÑ€Ð¸Ñ„Ñ‚Ð¾Ð¼ */
    }
+@font-face {
+    font-family: StroiTehGrupp14; /* Ð“Ð°Ñ€Ð½Ð¸Ñ‚ÑƒÑ€Ð° ÑˆÑ€Ð¸Ñ„Ñ‚Ð° */
+    src: url('fonts/font14.ttf'); /* ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ ÑÐ¾ ÑˆÑ€Ð¸Ñ„Ñ‚Ð¾Ð¼ */
+   }
 html, body{
 height:100%;
 font-size:13px;
